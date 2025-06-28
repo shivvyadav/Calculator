@@ -9,7 +9,3 @@ A basic calculator application built with **HTML**, **CSS**, and **JavaScript**.
 - Responsive design for desktop and mobile<br>
 - User-friendly interface with clickable buttons<br>
 - Keyboard input support (optional if added in code)<br>
-
-## 📸 Preview
-
-![screenshot.png](screenshot.png)
