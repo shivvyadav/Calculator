@@ -11,7 +11,7 @@ formCalc.addEventListener("click", (e) => {
       } else if (e.target.value == "DE") {
         display.value = display.value.slice(0, -1);
       } else if (e.target.value == "=") {
-        display.value = eval(display.value);
+        display.value = `${display.value}=${eval(display.value)}`;
       } else {
         display.value += e.target.value;
       }
